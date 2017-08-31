@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"ignored_packages":
+	[
+		"CSS",
+		"Vintage"
+	],
+	"theme": "Material-Theme.sublime-theme",
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+}

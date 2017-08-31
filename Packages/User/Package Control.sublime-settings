@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Babel",
+		"ChineseLocalizations",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SyncedSideBar",
+		"Vue Syntax Highlight"
+	]
+}
